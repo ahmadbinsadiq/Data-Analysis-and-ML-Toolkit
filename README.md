@@ -16,7 +16,7 @@ This Streamlit web application allows users to analyze various datasets using di
 
 You can run the OEE Improvement App directly on Streamlit Cloud using the following link:
 
-[OEE Improvement App](https://foydg3qulunhq7kbv8incy.streamlit.app/)
+[OEE Improvement App](https://ahmadbinsadiq-dataanalysisandmltoolkit-bzh76r4nzgv4emnjja4bqq.streamlit.app/)
 
 ## How to Use
 
@@ -46,7 +46,7 @@ This app was developed by Ahmad Bin Sadiq and Muhammad Bin Sadiq, two brothers p
 
 For more details and to contribute, visit the GitHub repository.
 ```bash
-   git clone https://github.com/ahmadbinsadiq/ahmadbinsadiq-Data_Analysis_and_ML_Toolkit.git
+   git clone https://github.com/ahmadbinsadiq/Data-Analysis-and-ML-Toolkit.git
 
 ---
 
