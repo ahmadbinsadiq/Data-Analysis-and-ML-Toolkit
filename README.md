@@ -47,6 +47,7 @@ This app was developed by Ahmad Bin Sadiq and Muhammad Bin Sadiq, two brothers p
 For more details and to contribute, visit the GitHub repository.
 ```bash
    git clone https://github.com/ahmadbinsadiq/Data-Analysis-and-ML-Toolkit.git
+```
 
 ---
 
