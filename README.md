@@ -16,7 +16,7 @@ This Streamlit web application allows users to analyze various datasets using di
 
 You can run the OEE Improvement App directly on Streamlit Cloud using the following link:
 
-[OEE Improvement App](https://ahmadbinsadiq-dataanalysisandmltoolkit-bzh76r4nzgv4emnjja4bqq.streamlit.app/)
+[Data-Analysis-and-ML-Toolkit](https://ahmadbinsadiq-dataanalysisandmltoolkit-bzh76r4nzgv4emnjja4bqq.streamlit.app/)
 
 ## How to Use
 
