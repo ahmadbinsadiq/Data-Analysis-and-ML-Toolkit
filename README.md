@@ -25,10 +25,6 @@ You can run the OEE Improvement App directly on Streamlit Cloud using the follow
 3. **Upload Your Own Data**: Allows users to upload their own CSV files for analysis.
 4. **Data Analysis**: Choose from Data Preview, Data Visualizations, Supervised Models, and Unsupervised Models to analyze the data.
 
-## Data Requirements
-
-- Ensure your CSV file includes the following columns: `date`, `productivity`, `efficiency`, `quality`, `cycle_time`, `throughput`, `yield`, `scrap_rate`, `downtime`.
-
 ## Technologies Used
 
 - This app was built using Streamlit, a platform for building data apps.
